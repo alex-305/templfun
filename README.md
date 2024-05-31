@@ -1,0 +1,1 @@
+### Just learning the Golang + Templ + HTMX stack for fun
